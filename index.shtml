@@ -20,13 +20,13 @@
                 &nbsp;&nbsp;&nbsp;
               </td>
               <td >
-                <img  src=../"VISOS.png" alt="" style="max-height:115px; width: auto; height: auto;">
+                <img  src="VISOS.png" alt="" style="max-height:115px; width: auto; height: auto;">
             CentralisedCodeRepository/VISOS  </td>
               <td  style="width:100%" > 
                 <h1><p style="color:#002147" class="STYLE0"><i>VISOSim</i><br>&mdash; <a target="_black" href="http://www-pnp.physics.ox.ac.uk/~luxi/visos/">VISualisation of OScillation</a><br>interactive mode</p></h1>
               </td>
               <td >
-                <img  src=../"ox_brand1_pos.gif" alt="" style="max-width:115px;">
+                <img  src="ox_brand1_pos.gif" alt="" style="max-width:115px;">
               </td>
               <td>
                 &nbsp;&nbsp;&nbsp;
