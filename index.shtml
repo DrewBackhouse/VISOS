@@ -63,7 +63,7 @@
               <td height="15px"></td>
             </tr>
             <tr>
-              <td width="25%">Flavor<br><select class="STYLE6" id="neutrino">
+              <td width="20%">Flavor<br><select class="STYLE6" id="neutrino">
                   <option value="1">e</option>
                   <option value="2">&mu;</option>
                   <option value="3">&tau;</option>
@@ -71,9 +71,10 @@
                   <option value="-2">Anti-&mu;</option>
                   <option value="-3">Anti-&tau;</option>
               </select></td>
-              <td width="25%">Energy (GeV)<br><input type="text" class="STYLE6" id="energy"></td>
-              <td width="25%">Distance (km)<br><input type="text" class="STYLE6" id="distance"></td>
-              <td width="25%">Matter Density<br><select class="STYLE6" id="density">
+              <td width="20%">Energy (GeV)<br><input type="text" class="STYLE6" id="energy"></td>
+              <td width="20%">Distance (km)<br><input type="text" class="STYLE6" id="distance"></td>
+	      <td width="20%">Error (%)<br><input type="text" class="STYLE6" id="error"></td>
+              <td width="20%">Matter Density<br><select class="STYLE6" id="density">
                   <option value="0">Vacuum</option>
                   <option value="2.6">Earth Crust</option>
               </select></td>
