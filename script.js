@@ -251,8 +251,7 @@ function Load(){
               document.getElementById("neutrino").value == ""||
               document.getElementById("energy").value == "" ||
               document.getElementById("distance").value == "" ||
-              document.getElementById("density").value == "")
-              document.getElementById("error").value == "" || {
+              document.getElementById("density").value == "") {
 
                 alert("Error:Please enter appropriate values!")
               return;
@@ -270,7 +269,7 @@ function Load(){
         if (s>9) {s=0};
         ii=ii+1;
         var ptr = Module._Propagate(Number(document.getElementById("theta12").value), Number(document.getElementById("theta23").value), Number(document.getElementById("theta13").value),Number(document.getElementById("dm^2_21").value), Number(document.getElementById("dm^2_32").value),(Number(document.getElementById("cp").value)*((Math.PI)/180)),
-                                    Number(document.getElementById("energy").value), Number(document.getElementById("distance").value), Number(document.getElementById("neutrino").value),Number(document.getElementById("density").value), Number(document.getElementById("error").value));
+                                    Number(document.getElementById("energy").value), Number(document.getElementById("distance").value), Number(document.getElementById("neutrino").value),Number(document.getElementById("density").value));
         var X = [];
         var Y = [];
         var D = [];
