@@ -55,6 +55,7 @@ function JUNO() {
     document.getElementById("distance").value = "53";
     document.getElementById("neutrino").value = "-1";
     document.getElementById("density").value = "2.6";
+    document.getElementById("error").value = "0.1";
 }
 function DayaBay() {
     document.getElementById("energy").value = "0.003";
