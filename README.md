@@ -1,4 +1,4 @@
-# VISOS v1.1
+# VISOS v1.2
 
 This holds the Code for building the VISOS webpage.
 
